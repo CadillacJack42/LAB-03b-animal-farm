@@ -1,11 +1,11 @@
 // import functions
 
-const paige = document.getElementById('paige')
-const monkey = document.getElementById('monkey')
-const lion = document.getElementById('lion')
-const bark = document.getElementById('dog-bark')
-const hoot = document.getElementById('monkey-sound')
-const roar = document.getElementById('lions-roar')
+const paige = document.getElementById('paige');
+const monkey = document.getElementById('monkey');
+const lion = document.getElementById('lion');
+const bark = document.getElementById('dog-bark');
+const hoot = document.getElementById('monkey-sound');
+const roar = document.getElementById('lions-roar');
 
 
 // set event listeners 
