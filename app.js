@@ -14,12 +14,12 @@ const roar = document.getElementById('lions-roar');
     // update DOM to reflect new value(s)
 
 paige.addEventListener('click', () => {
-    bark.play()
+    bark.play();
 });
 monkey.addEventListener('click', () => {
-    hoot.play()
+    hoot.play();
 });
 lion.addEventListener('click', () => {
-    roar.play()
+    roar.play();
 });
 
